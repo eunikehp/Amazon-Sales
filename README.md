@@ -4,4 +4,4 @@ This project is my first independent project. The aim of this project is to anal
 
 We used the dataset available and began the process of dataset walktrough, data cleaning,Exploratory data analysis (EDA) and followed by visualtization. 
 
-Link to the jupiter notebook file: [Check here]
+Link to the jupiter notebook file: [Check here](https://github.com/eunikehp/Amazon-Sales/blob/main/Amazon%20Sales.ipynb)
