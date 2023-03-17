@@ -1,6 +1,6 @@
 # Amazon-Sales
 
-This project is my first independent project. The aim of this project was to analyze the sales performance of Amazon. Some of the essentials questions for developing this project are related to the prices of products, discount, and rating.
+This project is my first independent project. The aim of this project was to analyze the sales performance of Amazon. Some of the main questions for developing this project are related to the prices of products, discount, and rating.
 
 Dataset of this project was taken from https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset. It contains the data of 1K+ Amazon Product's Ratings and Reviews and the details listed on the official website of Amazon.
 
